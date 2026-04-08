@@ -14,7 +14,7 @@ function Intro() {
         </div>
       </div>
       <img 
-        src="https://raw.githubusercontent.com/maciejleoniak/maciejleoniak.github.io/main/assets/images/avatar.JPG" 
+        src="https://avatars.githubusercontent.com/u/128679992?s=400&u=962cd5c5ee28677b1b40c2450c3620115631f3ef&v=4" 
         loading="lazy" 
         alt="Maciej Leoniak Avatar" 
         className="avatar" 
